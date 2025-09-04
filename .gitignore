@@ -1,0 +1,22 @@
+# ===== Backend (Spring Boot) =====
+nutribattle-backend/target/
+nutribattle-backend/.gradle/
+nutribattle-backend/out/
+nutribattle-backend/*.log
+nutribattle-backend/*.jar
+nutribattle-backend/*.war
+
+# ===== Frontend (React) =====
+nutribattle-frontend/node_modules/
+nutribattle-frontend/build/
+nutribattle-frontend/dist/
+nutribattle-frontend/npm-debug.log
+nutribattle-frontend/yarn-error.log
+nutribattle-frontend/package-lock.json
+
+# ===== IDE / OS =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
