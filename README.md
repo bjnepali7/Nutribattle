@@ -308,7 +308,7 @@ Please consider giving it a ⭐ on GitHub!
 
 **Bijay Nepali**
 
-📧 Email: your-email@example.com
+📧 Email: bjnepali77@gmail.com
 
 🌐 GitHub: https://github.com/bjnepali7
 
