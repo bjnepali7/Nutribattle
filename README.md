@@ -110,8 +110,6 @@ The recommendation considers nutritional attributes like:
 - React.js
 - React Router
 - Axios
-- Bootstrap / CSS
-- JavaScript
 
 ---
 
