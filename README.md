@@ -145,28 +145,6 @@ The recommendation considers nutritional attributes like:
 
 ---
 
-# 📂 Project Structure
-
-```
-NutriBattle
-│
-├── frontend
-│   ├── src
-│   ├── public
-│   └── package.json
-│
-├── backend
-│   ├── controller
-│   ├── service
-│   ├── repository
-│   ├── model
-│   ├── security
-│   └── resources
-│
-└── database
-```
-
----
 
 # 🚀 Getting Started
 
