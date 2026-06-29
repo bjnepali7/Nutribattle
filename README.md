@@ -87,19 +87,19 @@ The recommendation considers nutritional attributes like:
 
 ## 🏠 Home Page
 
-![Home](assets/home.png)
+![Home](assets/home.jpg)
 
 ---
 
 ## 🔐 Login
 
-![Login](assets/login.png)
+![Login](assets/login.jpg)
 
 ---
 
 ## ⚖️ Food Comparison
 
-![Compare](assets/compare.png)
+![Compare](assets/compare.jpg)
 
 ---
 
